@@ -1,3 +1,9 @@
 html, body {
   margin: 20px;
 }
+
+.mac {
+    width: 100px;
+    height: 100px;
+    background-color: #008000;
+}
